@@ -1,4 +1,5 @@
-"""MEDIU THRUSDAY EXERCISES"""
+"""MEDIUM THURSDAY EXERCISES"""
+
 #1 : FIND THE SMALLEST NUMBER
 """list = [4, 1, 2 , 3]
 def smallest(list):
@@ -14,14 +15,14 @@ def largest(list):
 largest(list)"""
 
 #3 : FIND THE SHORTEST STRING
-list = ["Hi im Jesse", "Matt", "Susan", "Marylee"]
+"""list = ["Hi im Jesse", "Matt", "Susan", "Marylee"]
 def shortest(list):
     print(min(list, key=len))
-shortest(list)
+shortest(list)"""
 
 #4 FIND THE LONGEST STRING
-list = ["Hi im Jesse", "Matt", "Susan", "Marylee"]
+"""list = ["Hi im Jesse", "Matt", "Susan", "Marylee"]
 def longest(list):
     print(max(list, key=len))
-longest(list)
+longest(list)"""
 
