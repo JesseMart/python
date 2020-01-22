@@ -12,11 +12,11 @@ print(large( [2,3,4,55, 1,6]))"""
 
 #import pickle #saving 
 
-my_dictionary = {
+"""my_dictionary = {
     "hello" : "world",
     "square_of_2" : 4,
     0 : 1
-}
+}"""
 #data is where the name of the file while go
 #fh is the name of the file handler
 """my_dictionary = ["last"]
@@ -28,9 +28,9 @@ with open('data.pickle', 'wb') as fh:
 print(my_dictionary.get[4])""" #this function returns a key if its exits, will reutnr "none" if thers is no key
 
 #use for loop to get key and value - .values() does the same
-value_list = my_dictionary.values()
+"""value_list = my_dictionary.values()
 for val in value_list:
-    print (f'{val} : my_dictionary(value_list)')
+    print (f'{val} : my_dictionary(value_list)')"""
 
 """key_list = my_dictionary.keys()
  for key in keys:
